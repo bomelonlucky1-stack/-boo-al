@@ -1,0 +1,13 @@
+
+{
+  "name": "boo-al",
+  "version": "1.0.0",
+  "description": "BOO AL chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
